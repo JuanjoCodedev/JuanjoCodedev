@@ -5,15 +5,15 @@
 <img src="https://i.imgur.com/4UNjmDS.jpeg">
 
 ## Sobre mi
-👨‍🎓 Estudiante Analisis y Desarrollo de Software.
-💻 Desarrollador web Full Stack.
-🏙️ Colombia, Barranquilla.
+- 👨‍🎓 Estudiante Analisis y Desarrollo de Software.
+- 💻 Desarrollador web Full Stack.
+- 🏙️ Colombia, Barranquilla.
 <br>
 
 ## Habilidades
-🛩️ ReactJs
-🐘 PostgreSQL
-⚓ Javascript.
-🍃 MongoDB.
-🌐 Typescript.
+- 🛩️ ReactJs
+- 🐘 PostgreSQL
+- ⚓ Javascript.
+- 🍃 MongoDB.
+- 🌐 Typescript.
 
