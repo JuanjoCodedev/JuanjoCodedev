@@ -1,4 +1,5 @@
 <div align="center">
 <h1 align="center">Hola, soy JuanjoCodeDev 👋</h1>
-  <h3>Desarrollador de software</h3>
 </div>
+
+<img src="https://drive.google.com/file/d/1a5UtCIooHJ0TejebTBAfLhUD42gIe2rJ/view?usp=drive_link"/>
