@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy JuanjoCodeDev 👋</h1>
 </div>
 
-<div style="border-radius: 10px;">
+<div borderRadius="10px">
   <img src="https://i.imgur.com/4UNjmDS.jpeg">
 </div>
 
