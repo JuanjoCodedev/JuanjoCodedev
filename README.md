@@ -2,4 +2,4 @@
 <h1 align="center">Hola, soy JuanjoCodeDev 👋</h1>
 </div>
 
-<img src="https://imgur.com/a/TSPuHB6">
+<img src="https://i.imgur.com/VfkX1Ou.jpg">
