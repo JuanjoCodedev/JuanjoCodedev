@@ -11,9 +11,10 @@
 <br>
 
 ## Habilidades
-- 🛩️ ReactJs
-- 🐘 PostgreSQL
+- 🛩️ ReactJs.
+- 🅰️ Angular.
 - ⚓ Javascript.
-- 🍃 MongoDB.
 - 🌐 Typescript.
+- 🐘 PostgreSQL
+- 🍃 MongoDB.
 
