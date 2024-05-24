@@ -11,10 +11,6 @@
 <br>
 
 ## Habilidades
-- 🛩️ ReactJs.
-- 🅰️ Angular.
-- ⚓ Javascript.
-- 🌐 Typescript.
-- 🐘 PostgreSQL
-- 🍃 MongoDB.
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,tailwindcss,bootstrap,css,nodejs,nestjs,postgresql,mysql,mongodb"/>
+</p>
