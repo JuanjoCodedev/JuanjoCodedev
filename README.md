@@ -13,7 +13,7 @@
 
 🚀 Actualmente estoy en búsqueda de nuevos desafíos que me impulsen a salir de mi zona de confort y me permitan crecer profesionalmente.
 
-🌐 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-salazar-aguirre-b7b9402b5/). Te invito a explorar mis proyectos públicos; ¡quizás encuentres algo de tu interés!
+🌐 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/juanjocodedev/). Te invito a explorar mis proyectos públicos; ¡quizás encuentres algo de tu interés!
 
 <br>
 
