@@ -20,5 +20,5 @@
 ## Habilidades
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,tailwindcss,bootstrap,css,nodejs,nestjs,postgresql,mysql,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,styledcomponents,tailwindcss,bootstrap,materialui,css,nodejs,nestjs,postgresql,mysql,mongodb,gcp,git"/>
 </p>
