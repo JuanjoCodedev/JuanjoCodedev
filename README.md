@@ -19,6 +19,11 @@
 
 ## Habilidades
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,styledcomponents,tailwindcss,bootstrap,materialui,css,nodejs,nestjs,postgresql,mysql,mongodb,gcp,git"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react,angular,js,ts,styledcomponents,tailwindcss,bootstrap,materialui,css,nodejs,nestjs,postgresql,mysql,mongodb,gcp,git,docker&perline=18)](https://skillicons.dev)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjocodedev&hide_progress=true)
+
+## Comunidad
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanjocodedev&repo=auth-nest)](https://github.com/JuanjoCodedev/auth-nest)
