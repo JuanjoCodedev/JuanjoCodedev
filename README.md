@@ -19,11 +19,17 @@
 
 ## Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,js,ts,styledcomponents,tailwindcss,bootstrap,materialui,css,nodejs,nestjs,postgresql,mysql,mongodb,gcp,git,docker&perline=18)](https://skillicons.dev)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,angular,js,ts,styledcomponents,tailwindcss,bootstrap,materialui,css,nodejs,nestjs,postgresql,mysql,mongodb,gcp,git,docker&perline=12" alt="My Skills" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjocodedev&hide_progress=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjocodedev&hide_progress=true)
-
-## Comunidad
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanjocodedev&repo=auth-nest)](https://github.com/JuanjoCodedev/auth-nest)
